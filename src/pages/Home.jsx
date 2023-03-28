@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Header from '../partials/Header';
 import HeroHome from '../partials/HeroHome';
 import FeaturesHome from '../partials/Features';
@@ -10,6 +9,7 @@ import Footer from '../partials/Footer';
 import Banner from '../partials/Banner';
 import HeaderNew from '../partials/HeaderNew';
 import HeroSection from '../partials/HeroSection';
+import FooterNew from '../partials/FooterNew';
 
 function Home() {
   return (
@@ -23,18 +23,16 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <HeroSection />
+        
         <FeaturesHome />
         <FeaturesBlocks />
-        <Testimonials />
-        <Newsletter />
-
+        
       </main>
 
       <Banner />
 
       {/*  Site footer */}
-      <Footer />
+      <FooterNew />
 
     </div>
   );

@@ -4,16 +4,17 @@ import HeroImage from '../images/herosection.png'
 
 export default function HeroSection() {
   return (
+    
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="py-12 md:py-20 border-t border-gray-800"></div>
+        
         {/* Section header */}
         <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach goals that matter</div>
             <h1 className="h2 mb-4">One product, unlimited solutions</h1>
             <p className="text-xl text-gray-400">At AgriAllX, we understand the challenges of the agriculture and vegetable oil industry, which is
-why we have developed a platform that streamlines the buying and selling process, reduces
-costs, and ensures fair and equitable transactions for all parties involved.</p>
+        why we have developed a platform that streamlines the buying and selling process, reduces
+        costs, and ensures fair and equitable transactions for all parties involved.</p>
           </div>
           {/* Items */}
           <div className="grid gap-20">
