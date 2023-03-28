@@ -111,7 +111,7 @@ export default function FooterNew() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://prathameshchari.com/">Prathamesh</a>. All rights reserved.</div>
+          <div className="text-sm text-gray-600 mr-4">Developed & Maintained by <a className="text-blue-600 hover:underline" href="https://ppmvalue.com/">PPMValue</a>. All rights reserved.</div>
 
         </div>
 
