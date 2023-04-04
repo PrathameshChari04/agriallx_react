@@ -1,12 +1,11 @@
-import React from 'react'
-import HeroAbout from '../partials/about/HeroAbout';
+import React from 'react';
 import HeaderNew from '../partials/HeaderNew';
-import Footer from '../partials/FooterNew';
 import Banner from '../partials/Banner';
-import FeatureAbout from '../partials/about/FeatureAbout';
 import FooterNew from '../partials/FooterNew';
+import ContactSection from '../partials/contact/ContactSection';
 
-export default function About() {
+
+export default function Contact() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
       {/*  Site header */}
@@ -14,18 +13,17 @@ export default function About() {
 
       {/*  Page content */}
       <main className="flex-grow">
+        <ContactSection />
 
         {/*  Page sections */}
-        <HeroAbout />
-        <FeatureAbout />
+        
       </main>
 
       <Banner />
 
       {/*  Site footer */}
       <FooterNew />
+      </div>
 
-
-    </div>
   )
 }

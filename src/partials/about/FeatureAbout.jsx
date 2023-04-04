@@ -41,7 +41,7 @@ export default function FeatureAbout() {
                   
                   <h3 className="h3 mb-3">Vision Statement</h3>
                   <p className="text-xl text-gray-700 mb-4">To be the leading agriculture and vegetable oils commodity trading company, recognized for our
-                    commitment to sustainable practices and innovation in AI-based trading technology.</p>
+                    commitment to sustainable practices and innovation in technology.</p>
                   
                 </div>
               </div>
@@ -60,7 +60,7 @@ export default function FeatureAbout() {
                   
                   <h3 className="h3 mb-3">Mission Statement</h3>
                   <p className="text-xl text-gray-700 mb-4">Our mission is to provide exceptional customer service and transparent trading practices while
-            supporting sustainable agriculture practices. We are committed to leveraging AI-based
+            supporting sustainable agriculture practices. We are committed to leveraging
             technology to develop a state-of-the-art commodity exchange platform that provides real-time
             pricing, market data, and risk management tools to all participants in the industry.</p>
                         

@@ -44,7 +44,7 @@ export default function PlatformHome() {
               data-aos="zoom-y-out"
             >
               
-              <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-orange-500 to-green-600">
                 AgriAllX
               </span> Trading Platform
             </h1>

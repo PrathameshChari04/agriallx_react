@@ -16,6 +16,7 @@ import SignUp from './pages/SignUp';
 import ResetPassword from './pages/ResetPassword';
 import About from './pages/About';
 import Platform from './pages/Platform';
+import Contact from './pages/Contact';
 
 function App() {
 
@@ -43,6 +44,7 @@ function App() {
         <Route path="/signin" element={<SignIn />} />
         <Route path="/about" element={<About />} />
         <Route path="/platform" element={<Platform />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/reset-password" element={<ResetPassword />} />
         

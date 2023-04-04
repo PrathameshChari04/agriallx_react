@@ -13,7 +13,7 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-10 font-extrabold leading-tighter text-gray-100">What Service <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">AgriAllX</span> Offers</h2>
+            <h2 className="h2 mb-10 font-extrabold leading-tighter text-gray-100">What Service <span className="bg-clip-text text-transparent bg-gradient-to-r from-orange-500 to-green-500">AgriAllX</span> Offers</h2>
             <p className="text-xl text-gray-200">We believe that transparency and integrity are key to building trust in the
 marketplace. That's why we provide complete transparency in our pricing and trading
 processes, ensuring that all parties have access to accurate information and can make informed

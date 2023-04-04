@@ -10,6 +10,9 @@ import Banner from '../partials/Banner';
 import HeaderNew from '../partials/HeaderNew';
 import HeroSection from '../partials/HeroSection';
 import FooterNew from '../partials/FooterNew';
+import WhyUS from '../partials/WhyUS';
+import IconSet from '../partials/IconSet';
+import BlockInfo from '../partials/BlockInfo';
 
 function Home() {
   return (
@@ -23,9 +26,12 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        
-        <FeaturesHome />
-        <FeaturesBlocks />
+        <BlockInfo />
+    
+        <WhyUS />
+       
+       
+        <IconSet />
         
       </main>
 
